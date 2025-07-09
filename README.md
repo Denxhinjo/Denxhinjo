@@ -41,7 +41,7 @@ You can reach me via email or connect with me on LinkedIn.
   <a href="mailto:dxhabrahimi2002@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email me" />
   </a>
-  <a href="https://www.linkedin.com/in/denis-xhabrahimi/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect on linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/denis-xhabrahimi/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect on linkedin" />
+</a>
 </p>
