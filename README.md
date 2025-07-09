@@ -1,13 +1,3 @@
-**- 👋 Hi, I’m @Denxhinjo
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PYTHON, JAVA
-- 🌱 I’m currently learning .. JAVASCRIPT.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Denxhinjo/Denxhinjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 **# Hi there, I'm Denis! 👋
 
 I'm a Software Developer and a Data Science MSc candidate with a passion for building efficient, data-driven applications. I have experience across the full stack, from developing web applications with Python and PHP to deploying enterprise software. I'm always eager to learn new technologies and solve challenging problems.
